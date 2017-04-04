@@ -1,4 +1,4 @@
 # Lords-Centuries
 
-This is a basic Jupyter Notebook which analyses data on test centuries scored at Lord's.
+This is a collection of Jupyter Notebooks containing analysis of various statistics of the game we all love!
 Please feel free to suggest ideas!
